@@ -1,0 +1,9 @@
+我使用的要求是
+The upper part shows japan in Pixel Art 
+the middle part shows city in Watercolor 
+the lower part shows sky in InkPainting
+
+chatGPT我覺得他的像素風格用的很好看 而且輸出時間還滿短的
+Gemini 他的下面那部份我覺得是其他AI裡面最好的 
+Chaton 這個AI三格都畫得很不錯 都在平均值上面
+Copilot 這個AI像素有點不行 其他的都還可以
